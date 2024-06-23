@@ -1,4 +1,4 @@
-<h1 align="center">Rotacionando um cubo com Rotação de Matrizes</h1>
+<h1 align="center">Rotacionando um cubo com  Matrizes de  Rotação </h1>
 
 
 ## Explicação de algumas teorias
