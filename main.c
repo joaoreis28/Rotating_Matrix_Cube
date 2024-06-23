@@ -85,11 +85,11 @@ int main()
             for(float cubeY = -cubeWidth; cubeY < cubeWidth; cubeY += incrementSpeed)
             {
                 calculateSurface(cubeX, cubeY, -cubeWidth, '#');
-                calculateSurface(cubeWidth, cubeY, cubeX, '.');
-                calculateSurface(-cubeWidth, cubeY, -cubeX, '$');
-                calculateSurface(-cubeX, cubeY, cubeWidth, '%');
-                calculateSurface(cubeX, -cubeWidth, -cubeY, '@');
-                calculateSurface(cubeX, cubeWidth, cubeY, '+');
+                //calculateSurface(cubeWidth, cubeY, cubeX, '.');
+                //calculateSurface(-cubeWidth, cubeY, -cubeX, '$');
+                //calculateSurface(-cubeX, cubeY, cubeWidth, '%');
+                //calculateSurface(cubeX, -cubeWidth, -cubeY, '@');
+                //calculateSurface(cubeX, cubeWidth, cubeY, '+');
 
 
             }

@@ -9,7 +9,10 @@
  <img src="media/equation.png" />
 
 
- <p> As Funções <strong>Calcx, Calcy, Calcz</strong> se referem a multiplicações de martizes, usando matrizes de rotação , que levam o vetor(i j k ) para um vetor rotacionado (i' j' k'), com base nos ângulos a,b,c </p>
+ <p> As Funções <strong>Calcx, Calcy, Calcz</strong> se referem a multiplicações de matrizes, usando matrizes de rotação , que levam o vetor(i j k ) para um vetor rotacionado (i' j' k'), com base nos ângulos a,b,c </p>
+
+  <img src="media/calc.png" />
+
 
 
  ### Projeção em perspectiva, Função calculateSurface
@@ -17,3 +20,12 @@
 
  <img src="media/Surface.png" />
  <p>Por fim, é necessário fazer uma verificação de limites, garantindo que posições inválidas do array não serão acessadas</p>
+
+ ### Adicionando novas superfícies
+ <p>Aqui são adicionados  novas superfícies, totalizando as 6 do cubo, que são calculadas colocando entradas na matriz de rotação de forma a criar superfícies ortogonais. Exemplo abaixo, utilizando a matriz de rotação do eixo y. </p>
+<img src="media/otherSurfaces.png" />
+<img src="media/result.png "/>
+
+<img src="media/Surfaces.png"/>
+
+
