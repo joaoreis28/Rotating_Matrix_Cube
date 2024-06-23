@@ -6,3 +6,7 @@
 
 
  <img src="media/3DRotation.png" />
+ <img src="media/equation.png" />
+
+
+ <p> Calcx, Calcy, Calcz são todos matrizes de rotação , que levam o vetor(i j k ) para um vetor rotacionado (i' j' k') </p>
